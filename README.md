@@ -3,3 +3,6 @@
 网页版photoshop https://photoshop.adobe.com/id   
 
 https://www.figma.com/    
+
+azul jdk
+https://www.azul.com/downloads/?version=java-8-lts&os=macos&architecture=arm-64-bit&package=jdk.  
