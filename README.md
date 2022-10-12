@@ -5,4 +5,7 @@
 https://www.figma.com/    
 
 azul jdk
-https://www.azul.com/downloads/?version=java-8-lts&os=macos&architecture=arm-64-bit&package=jdk.  
+https://www.azul.com/downloads/?version=java-8-lts&os=macos&architecture=arm-64-bit&package=jdk  
+
+mac 解压缩工具
+https://theunarchiver.com/
