@@ -13,3 +13,7 @@ https://theunarchiver.com/
 https://sourcegraph.com/github.com/django/django/-/blob/django/contrib/admin/filters.py?L24:48
 
 https://www.u.tools/ 
+
+压缩图片
+https://www.apowersoft.cn/compress-image-online 大压缩
+https://tinypng.com/ 小压缩
