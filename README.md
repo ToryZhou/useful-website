@@ -14,6 +14,6 @@ https://sourcegraph.com/github.com/django/django/-/blob/django/contrib/admin/fil
 
 https://www.u.tools/ 
 
-压缩图片
-https://www.apowersoft.cn/compress-image-online 大压缩
-https://tinypng.com/ 小压缩
+压缩图片    
+https://www.apowersoft.cn/compress-image-online 大压缩     
+https://tinypng.com/ 小压缩   
