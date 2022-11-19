@@ -17,3 +17,6 @@ https://www.u.tools/
 压缩图片    
 https://www.apowersoft.cn/compress-image-online 大压缩     
 https://tinypng.com/ 小压缩   
+
+rgb颜色对照表    
+http://tools.jb51.net/static/colorpicker/?ivk_sa=1021577i    
