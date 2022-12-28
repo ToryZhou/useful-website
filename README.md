@@ -20,3 +20,6 @@ https://tinypng.com/ 小压缩
 
 rgb颜色对照表    
 http://tools.jb51.net/static/colorpicker/?ivk_sa=1021577i    
+
+pdf转word
+https://www.alltoall.net/    
