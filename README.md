@@ -26,3 +26,11 @@ https://www.alltoall.net/
 
 蓝灯      
 https://github.com/getlantern/lantern    
+
+稀土掘金   
+https://juejin.cn/    
+
+oschina    
+
+v2ex      
+https://www.v2ex.com/    
